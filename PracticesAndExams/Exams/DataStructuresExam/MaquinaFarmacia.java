@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Programa per a una màquina expenedora de fàrmacs.
  * 
- * @author Víctor
+ * @author vimago
  */
 public class MaquinaFarmacia {
 
